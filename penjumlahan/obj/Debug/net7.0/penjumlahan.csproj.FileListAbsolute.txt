@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\Coding\SMKCoding\penjumlahan\obj\Debug\net7.0\penjumlahan.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Coding\SMKCoding\penjumlahan\obj\Debug\net7.0\penjumlahan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Coding\SMKCoding\penjumlahan\obj\Debug\net7.0\penjumlahan.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Coding\SMKCoding\penjumlahan\obj\Debug\net7.0\penjumlahan.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Coding\SMKCoding\penjumlahan\obj\Debug\net7.0\penjumlahan.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Coding\SMKCoding\penjumlahan\bin\Debug\net7.0\penjumlahan.exe
+C:\Users\Lenovo\Documents\Coding\SMKCoding\penjumlahan\bin\Debug\net7.0\penjumlahan.deps.json
+C:\Users\Lenovo\Documents\Coding\SMKCoding\penjumlahan\bin\Debug\net7.0\penjumlahan.runtimeconfig.json
+C:\Users\Lenovo\Documents\Coding\SMKCoding\penjumlahan\bin\Debug\net7.0\penjumlahan.dll
+C:\Users\Lenovo\Documents\Coding\SMKCoding\penjumlahan\bin\Debug\net7.0\penjumlahan.pdb
+C:\Users\Lenovo\Documents\Coding\SMKCoding\penjumlahan\obj\Debug\net7.0\penjumlahan.dll
+C:\Users\Lenovo\Documents\Coding\SMKCoding\penjumlahan\obj\Debug\net7.0\refint\penjumlahan.dll
+C:\Users\Lenovo\Documents\Coding\SMKCoding\penjumlahan\obj\Debug\net7.0\penjumlahan.pdb
+C:\Users\Lenovo\Documents\Coding\SMKCoding\penjumlahan\obj\Debug\net7.0\penjumlahan.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Coding\SMKCoding\penjumlahan\obj\Debug\net7.0\ref\penjumlahan.dll
